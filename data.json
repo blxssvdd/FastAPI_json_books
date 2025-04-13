@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Darkly Dreaming Dexter",
+    "author": "Jeff Lindsay",
+    "year": 2004,
+    "available_copies": 5
+  },
+  {
+    "id": 2,
+    "title": "Dearly Devoted Dexter",
+    "author": "Jeff Lindsay",
+    "year": 2005,
+    "available_copies": 3
+  },
+  {
+    "id": 3,
+    "title": "Dexter in the Dark",
+    "author": "Jeff Lindsay",
+    "year": 2007,
+    "available_copies": 4
+  },
+  {
+    "id": 4,
+    "title": "Dexter by Design",
+    "author": "Jeff Lindsay",
+    "year": 2009,
+    "available_copies": 2
+  },
+  {
+    "id": 5,
+    "title": "Dexter Is Delicious",
+    "author": "Jeff Lindsay",
+    "year": 2010,
+    "available_copies": 6
+  },
+  {
+    "id": 6,
+    "title": "Double Dexter",
+    "author": "Jeff Lindsay",
+    "year": 2011,
+    "available_copies": 3
+  },
+  {
+    "id": 7,
+    "title": "Dexter's Final Cut",
+    "author": "Jeff Lindsay",
+    "year": 2013,
+    "available_copies": 1
+  },
+  {
+    "id": 8,
+    "title": "Dexter Is Dead",
+    "author": "Jeff Lindsay",
+    "year": 2015,
+    "available_copies": 2
+  },
+  {
+    "id": 9,
+    "title": "DEXTER RESURRECTION",
+    "author": "Jeff Lindsay",
+    "year": 2025,
+    "available_copies": 0
+  }
+]
